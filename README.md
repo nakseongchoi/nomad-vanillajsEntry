@@ -1,2 +1,2 @@
-# namade-vanillajsEntry
+# nomade-vanillajsEntry
 nomad coder vanillaJs Entry 
